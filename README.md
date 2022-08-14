@@ -1,2 +1,2 @@
 # berryPop
-Single Drupall 8 Theme
+Drupal Theme | berryPop
